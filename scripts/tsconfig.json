@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": "source",
+    "outDir": "build",
+    "strict": true,
+    "target": "ES5",
+    "lib": ["ES2015"],
+    "module": "commonjs"
+  }
+}

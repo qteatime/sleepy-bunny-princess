@@ -1,0 +1,11 @@
+.vscode/
+audio/
+data/
+fonts/
+icon/
+js/
+movies/
+node_modules/
+scripts/build/
+img/*
+!img/pictures

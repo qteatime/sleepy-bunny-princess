@@ -10,4 +10,4 @@ import {
   UIImage,
   UITransform,
   UIElement,
-} from "./Qtie";
+} from "./Uai";

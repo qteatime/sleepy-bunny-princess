@@ -9,3 +9,4 @@ node_modules/
 scripts/build/
 img/*
 !img/pictures
+save/

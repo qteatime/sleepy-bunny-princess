@@ -21,3 +21,8 @@ The TypeScript code in `scripts/` in this repository is licensed under
 the MIT licence.
 
 Everything else is ©2015 KADOKAWA CORPORATION./YOJI OJIMA.
+
+The music used in this game is mostly by [Darren Curtis][], with some from the
+standard RPG Maker by KADOKAWA CORPORATION.
+
+[Darren Curtis]: https://www.darrencurtismusic.com/

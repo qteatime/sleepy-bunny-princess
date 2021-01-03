@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"princess","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"princess","traits":[],"initialLevel":99,"maxLevel":99,"name":"Princess","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":62,"dataId":0,"value":1},{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Stabby","nickname":"","note":"","profile":"A very sharp, pointy friend."},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":62,"dataId":0,"value":1},{"code":11,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Loafy","nickname":"","note":"","profile":"A toasty and cozy friend."},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[{"code":62,"dataId":0,"value":1},{"code":11,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Softy","nickname":"","note":"","profile":"A fluffy and soft friend."}
+]

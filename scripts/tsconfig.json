@@ -3,8 +3,10 @@
     "rootDir": "source",
     "outDir": "build",
     "strict": true,
-    "target": "ES5",
-    "lib": ["ES2015"],
+    "target": "ES6",
+    "lib": [
+      "ES2018"
+    ],
     "module": "commonjs"
   }
 }

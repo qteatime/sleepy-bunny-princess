@@ -65,6 +65,7 @@ class EncounterGacha {
         const total = $gameVariables.value(variables_1.Variables.NUMBER_OF_MARAS);
         const alive = $gameVariables.value(variables_1.Variables.MARAS_ALIVE);
         if (this._troops.length === 0 || alive <= 0) {
+            $gameVariables.setValue(variables_1.Variables.MARA_ENCOUNTER, 0);
             return;
         }
         if (randomInt(0, total) < alive) {

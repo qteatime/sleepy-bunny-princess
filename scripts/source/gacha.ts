@@ -31,13 +31,13 @@ class BunnyGacha {
   }
 
   fetchBunny(varId: number) {
-    $gameParty.addActor(varId);
+    $gameParty.addActor($gameVariables.value(varId));
   }
 
   fetchAllBunnies() {
     for (const id of this._gotCharacters.values()) {
       if (!this.hasBunnyIdInParty(id)) {
-        this.fetchBunny(id);
+        $gameParty.addActor(id);
       }
     }
   }

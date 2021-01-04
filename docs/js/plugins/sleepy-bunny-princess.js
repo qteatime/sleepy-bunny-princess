@@ -30,12 +30,12 @@ class BunnyGacha {
             .filter(x => x._actorId !== variables_1.Actors.PRINCESS);
     }
     fetchBunny(varId) {
-        $gameParty.addActor(varId);
+        $gameParty.addActor($gameVariables.value(varId));
     }
     fetchAllBunnies() {
         for (const id of this._gotCharacters.values()) {
             if (!this.hasBunnyIdInParty(id)) {
-                this.fetchBunny(id);
+                $gameParty.addActor(id);
             }
         }
     }
